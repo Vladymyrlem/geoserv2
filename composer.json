@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "hudzhal/geointerface": "master-dev",
+    "hudzhal/geointerface": "dev-main",
     "geoip2/geoip2": "~2.0"
   }
 }
